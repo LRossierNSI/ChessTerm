@@ -7,11 +7,13 @@ from canvas_tkinter import *
 Décommentez les imports pour y mettre votre fichier d'IA
 """
 
-a = 25
+a = 25 #Je ne suis pas d'accord avec ça !
 
 board = Board()
 root = Tk()
 root.title("Echecs")
+
+
 
 """
 Rajoutez le nom de votre fichier pour jouer à votre Jeu et en entrée de la fonction classe Chess_UI
