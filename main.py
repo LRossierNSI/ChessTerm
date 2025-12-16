@@ -7,6 +7,8 @@ from canvas_tkinter import *
 Décommentez les imports pour y mettre votre fichier d'IA
 """
 
+a = 25
+
 board = Board()
 root = Tk()
 root.title("Echecs")
