@@ -11,7 +11,7 @@ board = Board()
 root = Tk()
 root.title("Echecs")
 
-a = 233
+a = 234 #233 c'est nul, je préfère 234
 
 """
 Rajoutez le nom de votre fichier pour jouer à votre Jeu et en entrée de la fonction classe Chess_UI
